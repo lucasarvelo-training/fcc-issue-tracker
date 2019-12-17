@@ -1,7 +1,7 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
 
-[Tests my solution here!](https://glitch.com/~atlantic-zone)
+[Tests my solution here!](https://atlantic-zone.glitch.me/)
 
 Project Issue Tracker
 
